@@ -1,0 +1,52 @@
+{
+  "ListaPeru": [
+    {
+      "puesto": 1,
+      "jugador": {
+        "name": "Adripro1000",
+        "image": "https://tetr.io/user-content/avatars/5faa1a119333f1d321382e01.jpg"
+      },
+      "sprint": 21.062,
+      "cambios": {
+        "posiciones": 1,
+        "imagen": "https://cdn.discordapp.com/attachments/1055308105090617394/1112847266173169767/arrow-145768_1280.png"
+      }
+    },
+    {
+      "puesto": 2,
+      "jugador": {
+        "name": "Ebuwu",
+        "image": "https://tetr.io/user-content/avatars/5fc6ac740d1b7a21c539c60e.jpg"
+      },
+      "cambios": {
+        "posiciones": 1,
+        "imagen": "https://cdn.discordapp.com/attachments/1055308105090617394/1112851104288493699/menos-rango-2.png"
+      },
+      "sprint": 19.083
+    },
+    {
+      "puesto": 3,
+      "jugador": {
+        "name": "Master",
+        "image": "https://cdn.discordapp.com/attachments/1105817539700867153/1112820732792143872/master-facha.png"
+      },
+      "cambios": {
+        "posiciones": 0,
+        "imagen": "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/58094/minus-emoji-clipart-xl.png"
+      },
+      "sprint": 20.988
+    },
+    {
+      "puesto": 4,
+      "jugador": {
+        "name": "Jhinta",
+        "image": "https://tetr.io/user-content/avatars/5f41c675fdcc602e78a52fd0.jpg"
+      },
+      "cambios": {
+        "posiciones": 1,
+        "imagen": "https://cdn.discordapp.com/attachments/1055308105090617394/1112847266173169767/arrow-145768_1280.png"
+      },
+      "sprint": 25.205
+    }
+    ]
+}
